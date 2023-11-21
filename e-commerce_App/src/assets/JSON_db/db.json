@@ -1,0 +1,45 @@
+{
+    "products":{
+                    "pageIndex":1,
+                    "pageSize":6,
+                    "count":18,
+                    "data":[
+    {
+        "id":1,
+        "name":"Angular Blue Boots", 
+        "description":"30", 
+        "price":180, 
+        "pictureUrl":"jfg",
+        "productType":"12",
+        "productBrand":"gj"
+    },
+    {
+        "id":2,
+        "name":"Angular Blue Boots", 
+        "description":"30", 
+        "price":180, 
+        "pictureUrl":"jfg",
+        "productType":"12",
+        "productBrand":"gj"
+    },
+    {
+        "id":3,
+        "name":"Angular Blue Boots", 
+        "description":"30", 
+        "price":180, 
+        "pictureUrl":"jfg",
+        "productType":"12",
+        "productBrand":"gj"
+    },
+    {
+        "id":4,
+        "name":"Angular Blue Boots", 
+        "description":"30", 
+        "price":180, 
+        "pictureUrl":"jfg",
+        "productType":"12",
+        "productBrand":"gj"
+    }
+                    ]
+                }
+}
